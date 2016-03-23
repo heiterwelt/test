@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //v1.1
+    UIButton *button;
     // Do any additional setup after loading the view, typically from a nib.
 }
 
